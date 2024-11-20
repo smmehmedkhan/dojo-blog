@@ -1,10 +1,12 @@
 import { useState } from "react"
+import { useHistory } from "react-router-dom";
 
 export default function Create() {
     const [title, setTitle] = useState('');
     const [content, setContent] = useState('');
     const [author, setAuthor] = useState('mario');
     const [isPending, setIsPending] = useState(false);
+    const history = useHistory();
 
     function handleSubmit(e) {
         e.preventDefault();
@@ -12,7 +14,7 @@ export default function Create() {
         const blog = {
             title,
             author,
-            content
+            body: content
         };
         fetch('http://localhost:8000/blogs', {
             method: 'POST',
@@ -22,6 +24,8 @@ export default function Create() {
         .then(() => {
             console.log('Added a new blog');
             setIsPending(false);
+            // history.go(-1);
+            history.push('/');
         })
     }
 
