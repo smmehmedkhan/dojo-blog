@@ -1,22 +1,52 @@
 {
-    "blogs": [
-        {
-            "id": 1,
-            "title": "As real as it gets",
-            "author": "Mario",
-            "body": "Climate change: Bangladesh is where it is at. Rohini Kamal shows the way. Debates on climate change are often dominated by heated commentary from the West on its impending peril calling it the biggest threat humanity has ever faced. But here in Bangladesh, climate change is not a threat  it is an ongoing reality.  In our reality, it is a slow compounding of already familiar struggles.The worst impacts from climate change, in the form of heat stress, increased salinity, and erratic rainfall, play out within familiar struggles. They include calls for fair wages and working conditions. Improvements needed in the working environment  include a heightened need for water breaks and cooling  especially for those working outside or in enclosed cooking areas. These needs have now intensified in a hotter climate. Elsewhere in the workforce, heat stress, salinity, and rainfall compound farmers struggles against falling agricultural returns and land impacts from construction and development initiatives."
-        },
-        {
-            "id": 2,
-            "title": "Climate vulnerable women from ultra poor households",
-            "author": "Yushi",
-            "body": "One of the groups most vulnerable to climate change impacts are women from ultra poor households in southwestern Bangladesh. The vulnerability of these women arises not only from repeated disasters leading to massive health and housing damage costs, but also from limited work and limited social connections faced by women in these communities. Women have few livelihood options, bringing limited access to resources to deploy in response to disasters. Women who do manage to find work in these regions have to deal with harassment and social stigma. Moreover, in these remote areas, the wage for women can be as low as half that of mens. Another gender-related obstacle for women is in the limited ownership of, and access to, cell phones. Disaster warnings in remote areas are often given through cell phones. This has vastly reduced some of the worst impacts of disasters in hard-to-reach areas. However, added to their poor access to cell phones, women are mostly in their homes while men are more likely to be in more connected areas due to their work. This means that women often miss early warnings."
-        },
-        {
-            "id": 3,
-            "title": "Embankment maintenance in Polder 22",
-            "author": "Sabu",
-            "body": "A system of embankments in the south west region of Bangladesh provide great protection against storms, flood, and saltwater intrusion. But recent impacts from these disaster events were greatly exacerbated by a breach in these embankments following poor maintenance. Part of this issue is that response systems in place for addressing maintenance are not adequate, and bureaucracy adds delay. Furthermore, there have been allegations of corrupt misuse of funds and of the government agency responsible being constrained in terms of human resources. Despite these challenges, grassroots mobilisation following the 2020 Hurricane Amphan provided a remarkable example of how local ownership and response mechanisms can work. One of the areas badly affected by the cyclone was Polder 22 in Paikgacha, Khulna. The cyclone breached the embankment in the polder, which was poorly maintained, causing it to cave in. Under the leadership of landless groups, locals rallied together to repair the breached embankments and plan for the aftermath of the storm. This , significantly reduced, losses in crops, housing repair, and health impacts compared with nearby regions where the breach was left unattended."
-        }
-    ]
+  "blogs": [
+    {
+      "id": "1",
+      "title": "As real as it gets",
+      "author": "Mario",
+      "body": "Climate change: Bangladesh is where it is at. Rohini Kamal shows the way. Debates on climate change are often dominated by heated commentary from the West on its impending peril calling it the biggest threat humanity has ever faced. But here in Bangladesh, climate change is not a threat  it is an ongoing reality.  In our reality, it is a slow compounding of already familiar struggles.The worst impacts from climate change, in the form of heat stress, increased salinity, and erratic rainfall, play out within familiar struggles. They include calls for fair wages and working conditions. Improvements needed in the working environment  include a heightened need for water breaks and cooling  especially for those working outside or in enclosed cooking areas. These needs have now intensified in a hotter climate. Elsewhere in the workforce, heat stress, salinity, and rainfall compound farmers struggles against falling agricultural returns and land impacts from construction and development initiatives."
+    },
+    {
+      "id": "2",
+      "title": "Climate vulnerable women from ultra poor households",
+      "author": "Yushi",
+      "body": "One of the groups most vulnerable to climate change impacts are women from ultra poor households in southwestern Bangladesh. The vulnerability of these women arises not only from repeated disasters leading to massive health and housing damage costs, but also from limited work and limited social connections faced by women in these communities. Women have few livelihood options, bringing limited access to resources to deploy in response to disasters. Women who do manage to find work in these regions have to deal with harassment and social stigma. Moreover, in these remote areas, the wage for women can be as low as half that of mens. Another gender-related obstacle for women is in the limited ownership of, and access to, cell phones. Disaster warnings in remote areas are often given through cell phones. This has vastly reduced some of the worst impacts of disasters in hard-to-reach areas. However, added to their poor access to cell phones, women are mostly in their homes while men are more likely to be in more connected areas due to their work. This means that women often miss early warnings."
+    },
+    {
+      "id": "3",
+      "title": "Embankment maintenance in Polder 22",
+      "author": "Sabu",
+      "body": "A system of embankments in the south west region of Bangladesh provide great protection against storms, flood, and saltwater intrusion. But recent impacts from these disaster events were greatly exacerbated by a breach in these embankments following poor maintenance. Part of this issue is that response systems in place for addressing maintenance are not adequate, and bureaucracy adds delay. Furthermore, there have been allegations of corrupt misuse of funds and of the government agency responsible being constrained in terms of human resources. Despite these challenges, grassroots mobilisation following the 2020 Hurricane Amphan provided a remarkable example of how local ownership and response mechanisms can work. One of the areas badly affected by the cyclone was Polder 22 in Paikgacha, Khulna. The cyclone breached the embankment in the polder, which was poorly maintained, causing it to cave in. Under the leadership of landless groups, locals rallied together to repair the breached embankments and plan for the aftermath of the storm. This , significantly reduced, losses in crops, housing repair, and health impacts compared with nearby regions where the breach was left unattended."
+    },
+    {
+      "id": "11a8",
+      "title": "Hello World!",
+      "author": "mario",
+      "content": "weapons program. They gathered on the main floor of the United Nations headquarters, in Manhattan, in the “consultations room,” a private chamber where diplomats can speak confidentially before stepping onto the floor of the Security Council. Tillerson, who was the head of ExxonMobil before becoming President Trump’s top diplomat, had not previously met Iran’s foreign minister, Javad Zarif, who negotiated the agreement with the Obama Administration. Tillerson’s career had been spent making deals for oil, and his views on such topics as Iran’s nuclear weapons were little known. Even more obscure were his skills as a diplomat."
+    },
+    {
+      "id": "879b",
+      "title": "Hello World!",
+      "author": "mario",
+      "content": "weapons program. They gathered on the main floor of the United Nations headquarters, in Manhattan, in the “consultations room,” a private chamber where diplomats can speak confidentially before stepping onto the floor of the Security Council. Tillerson, who was the head of ExxonMobil before becoming President Trump’s top diplomat, had not previously met Iran’s foreign minister, Javad Zarif, who negotiated the agreement with the Obama Administration. Tillerson’s career had been spent making deals for oil, and his views on such topics as Iran’s nuclear weapons were little known. Even more obscure were his skills as a diplomat."
+    },
+    {
+      "id": "5a49",
+      "title": "Mehmed Khan",
+      "author": "mario",
+      "content": "weapons program. They gathered on the main floor of the United Nations headquarters, in Manhattan, in the “consultations room,” a private chamber where diplomats can speak confidentially before stepping onto the floor of the Security Council. Tillerson, who was the head of ExxonMobil before becoming President Trump’s top diplomat, had not previously met Iran’s foreign minister, Javad Zarif, who negotiated the agreement with the Obama Administration. Tillerson’s career had been spent making deals for oil, and his views on such topics as Iran’s nuclear weapons were little known. Even more obscure were his skills as a diplomat."
+    },
+    {
+      "id": "4c0b",
+      "title": "Mehmed Khan",
+      "author": "yushi",
+      "content": "weapons program. They gathered on the main floor of the United Nations headquarters, in Manhattan, in the “consultations room,” a private chamber where diplomats can speak confidentially before stepping onto the floor of the Security Council. Tillerson, who was the head of ExxonMobil before becoming President Trump’s top diplomat, had not previously met Iran’s foreign minister, Javad Zarif, who negotiated the agreement with the Obama Administration. Tillerson’s career had been spent making deals for oil, and his views on such topics as Iran’s nuclear weapons were little known. Even more obscure were his skills as a diplomat."
+    },
+    {
+      "id": "9040",
+      "title": "Ramna park",
+      "author": "yushi",
+      "content": "Tillerson is an imposing man; he is stocky, and has a head of swept-back gray hair and a wide mouth that often droops in a scowl. Turning to Zarif, he went on to say that Iran had funded groups like Hezbollah, the Lebanese Islamist militia; it had backed Bashar al-Assad, the murderous Syrian dictator; and it had sent its Navy into the Persian Gulf to harass American ships. The fault for all this, Tillerson said, lay in the nuclear deal, known as the Joint Comprehensive Plan of Action, which curtailed Iran’s nuclear-weapons program but not its aggressive actions in the region. For Tillerson, it was an emblem of the previous Administration’s overly lenient foreign policy, which sought to promote America’s priorities through consensus, rather than through the frank display of power. “Lifting the sanctions as required under the terms of the J.C.P.O.A. has enabled Iran’s unacceptable behavior,” he said."
+    }
+  ]
 }
