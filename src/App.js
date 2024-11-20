@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import Create from './Create';
-import Home from './Home';
 import Navbar from './Navbar';
+import Home from './Home';
+import Create from './Create';
 
 export default function App() {
   return (
