@@ -21,8 +21,9 @@ export default function Home() {
     return (
         <div className="home">
             { isPending && <div>
-                <p>Loading...</p>
-            </div> }
+                    <p>Loading...</p>
+                </div> 
+            }
             { blogs && <BlogLists blogs={blogs} title={'All Blogs'} /> }
         </div>
     );
